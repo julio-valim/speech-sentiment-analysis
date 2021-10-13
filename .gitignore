@@ -128,5 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# data
+/data
+
+# docs
+/docs
 # OsX system file
 .DS_Store
