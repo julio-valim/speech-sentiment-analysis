@@ -6,4 +6,4 @@ Search for:
 - Title: Reconhecimento de emoções em arquivos de áudio a partir da extração de descritores espectrais.
 - Autor: Julio Valim
 
-[,pdf](https://drive.google.com/file/d/1_UOxA47OwSt4oFtyYS8oaCGR28GgjJLj/view)
+Or download [,pdf](https://drive.google.com/file/d/1_UOxA47OwSt4oFtyYS8oaCGR28GgjJLj/view) file.
