@@ -5,3 +5,5 @@ The paper detailed over all research steps, metodology, results, references et a
 Search for:
 - Title: Reconhecimento de emoções em arquivos de áudio a partir da extração de descritores espectrais.
 - Autor: Julio Valim
+
+- [,pdf](https://drive.google.com/file/d/1_UOxA47OwSt4oFtyYS8oaCGR28GgjJLj/view)
